@@ -1,0 +1,4 @@
+ML[[:space:]]PROJECT/datasets/bin_data.csv filter=lfs diff=lfs merge=lfs -text
+ML[[:space:]]PROJECT/models/knn_binary.pkl filter=lfs diff=lfs merge=lfs -text
+ML[[:space:]]PROJECT/datasets/multi_data.csv filter=lfs diff=lfs merge=lfs -text
+ML[[:space:]]PROJECT/models/knn_multi.pkl filter=lfs diff=lfs merge=lfs -text
