@@ -5,5 +5,4 @@ KNN
 K-MEANS 
 Naive Bayes    
 DT
-RF 
-
+RF
