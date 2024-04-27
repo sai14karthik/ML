@@ -1,8 +1,0 @@
-SVM 
-LSTM 
-ANN 
-KNN  
-K-MEANS 
-Naive Bayes    
-DT
-RF
